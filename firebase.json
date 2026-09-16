@@ -6,6 +6,8 @@
       ".firebaserc",
       "README.md",
       "**/.*",
+      ".git/**",
+      "**/.git/**",
       "**/node_modules/**"
     ],
     "headers": [
